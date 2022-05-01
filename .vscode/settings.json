@@ -1,0 +1,82 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder}/shravan/db.sqlite3.shravan",
+            "dialect": "SQLite",
+            "name": "shravan_con",
+            "driver": "SQLite"
+        },
+        {
+            "database": "${workspaceFolder}/shravan/db.sqlite3.shravan",
+            "dialect": "SQLite",
+            "name": "shravan_con",
+            "driver": "SQLite"
+        },
+        {
+            "database": "${workspaceFolder}/shravan/db.sqlite3.shravan",
+            "dialect": "SQLite",
+            "name": "sh",
+            "driver": "SQLite"
+        },
+        {
+            "database": "${workspaceFolder}/shravan/db.sqlite3.shravan",
+            "dialect": "SQLite",
+            "name": "sh",
+            "driver": "SQLite"
+        },
+        {
+            "database": "${workspaceFolder}/shravan/db.sqlite3.shravan",
+            "dialect": "SQLite",
+            "name": "sh_con",
+            "driver": "SQLite"
+        },
+        {
+            "database": "${workspaceFolder}/shravan/db.sqlite3.shravan",
+            "dialect": "SQLite",
+            "name": "shravan",
+            "driver": "SQLite"
+        },
+        {
+            "database": "${workspaceFolder}/shravan/db.sqlite3.shravan",
+            "dialect": "SQLite",
+            "name": "sh_con2",
+            "driver": "SQLite"
+        },
+        {
+            "database": "${workspaceFolder}/shravan/db.sqlite3.shravan",
+            "dialect": "SQLite",
+            "name": "sh",
+            "driver": "SQLite"
+        },
+        {
+            "database": "${workspaceFolder}/shravan/db.sqlite3.shravan",
+            "dialect": "SQLite",
+            "name": "sh_con2",
+            "driver": "SQLite"
+        },
+        {
+            "database": "${workspaceFolder}/shravan/db.sqlite3.shravan",
+            "dialect": "SQLite",
+            "name": "test",
+            "driver": "SQLite"
+        },
+        {
+            "database": "${workspaceFolder}/shravan/db.sqlite3.shravan",
+            "dialect": "SQLite",
+            "name": "sq1",
+            "driver": "SQLite"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "flight",
+            "database": "${workspaceFolder:flightreservation}/db.sqlite3"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "flight",
+            "database": "${workspaceFolder:flightreservation}/db.sqlite3"
+        }
+    ]
+}
