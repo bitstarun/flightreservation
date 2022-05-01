@@ -1,6 +1,4 @@
 
-
-$
 $ # Install modules - SQLite Storage
 $ pip3 install -r requirements.txt
 $
