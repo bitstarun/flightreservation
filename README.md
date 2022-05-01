@@ -1,5 +1,8 @@
 This application is built using following
 
+## ✨ How to use it
+
+```bash
 
 $ # Install modules - SQLite Storage
 $ pip3 install -r requirements.txt
@@ -10,7 +13,7 @@ $ python manage.py migrate
 $
 $ # Start the application (development mode)
 $ python manage.py runserver # default port 8000
-
+```
 ## ✨ Code-base structure
 
 The project is coded using a simple and intuitive structure presented bellow:
